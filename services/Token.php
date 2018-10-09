@@ -1,5 +1,4 @@
 <?php
-print_r($_REQUEST);
 class Token {
   public static function generate($sessionid) {
     $TokenFile = fopen("Tokens.txt", "w") or die("Error in opening Tokens.txt file!");
