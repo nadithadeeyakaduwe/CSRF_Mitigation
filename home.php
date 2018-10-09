@@ -34,11 +34,6 @@ require_once 'services/Token.php';
 </head>
 
 <body>
-  <!-- <form method="POST" action="">
-    <input type="text" name="content" placeholder="Type Name"><br/><br/>
-    <input type="hidden" name="token" value="<?php Token::returnCsrfToken(session_id()) ?>"><br/>
-    <input type="submit" value="UPDATE">
-  </form> -->
 
   <div class="card bg-light text-center border-primary align-middle" style=" width: 500px; margin: auto; margin-top: 50px">
   <h5 class="card-header">Update Status</h5>
