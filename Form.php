@@ -39,7 +39,7 @@ if(isset($_POST['username'], $_POST['password'])) {
 <body>
 <div class="card text-center border-primary align-middle" style="width: 400px; margin: auto; margin-top: 75px">
 <div class="card-header">
-<h3>Login Service for IT15014078</h3>
+<h3>Synchronized Token Pattern</h3>
 </div>
 <div class="card-body">
   <div class="alert alert-secondary m-2" role="alert">
@@ -66,7 +66,7 @@ if(isset($_POST['username'], $_POST['password'])) {
   </form>
 
    <div class="card-footer text-muted">
-   <p><em><small>IT15014078 | Synchronized token pattern | SSD</small></em></p>
+   <p><em><small>IT15014078 | Assignment - 2 | SSD</small></em></p>
     
   </div>
   </div>
